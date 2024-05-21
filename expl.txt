@@ -1,0 +1,13 @@
+line 11 - angle converted to radians because it  is easier to work computaionally in radians though it is easier to measure degrees. Radians is also non dimensional and it also gives a very natural description of angle
+
+.shape[0] helps us to work in the first dimension of our array. The .shape[] fxn is used to get the current shape of an array, but oit may also be used to reshape the array in -place by assigning a tuple of array dimensions to it
+
+The round() function returns a floating point number that is a rounded version of the specified number, with the specified number of decimals.
+
+Python abs() function is used to return the absolute value of a number
+
+numpy.zeros¶ ... Return a new array of given shape and type, filled with zeros
+
+In Python, Using a for loop with range() , we can repeat an action a specific number of times. This means that we repeat the action till the whole width or height or specified length is covered
+
+The Image. fromarray() function takes the array object as the input and returns the image object made from the array object
